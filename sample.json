@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Tyler Greenawalt",
+            "title": "NBA Finals: Why Nuggets head coach Michael Malone didn't take a timeout before final play of Game 2 loss - Yahoo Sports",
+            "description": "Malone let the final seconds of Game 2 play out despite owning two timeouts.",
+            "url": "https://sports.yahoo.com/nba-finals-why-nuggets-head-coach-michael-malone-didnt-take-a-timeout-before-final-play-of-game-2-loss-134439325.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J3p5zybzuRkEt88ixWRbGQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/c49d2690-03a3-11ee-bf5e-4e31fb11deeb",
+            "publishedAt": "2023-06-05T13:44:39Z",
+            "content": "Down three with 11.4 seconds left in Game 2 of the NBA Finals, Denver Nuggets head coach Mike Malone elected not to use one of his two timeouts to set up one final offensive play after his team snagg… [+2246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "Michael C. Wright",
+            "title": "Finals MVP Ladder: Nikola Jokic remains at top, but Heat players rising - NBA.com",
+            "description": "Bam Adebayo, Jimmy Butler and Gabe Vincent all take flight as Nikola Jokic continues to hold down our No. 1 spot.",
+            "url": "https://www.nba.com/news/finals-mvp-ladder-game-2-2023",
+            "urlToImage": "https://cdn.nba.com/manage/2023/06/gabe-vincent-bam-adebayo-high-five.jpg",
+            "publishedAt": "2023-06-05T13:13:30Z",
+            "content": "Bam Adebayo found a way to make a major impact in Game 2 of the NBA Finals.\r\nDENVER — The Miami Heat utilized a trio of 20-point scorers to topple the Denver Nuggets, 111-108, in Game 2 on Sunday. In… [+6974 chars]"
+        }
+    ]
+}

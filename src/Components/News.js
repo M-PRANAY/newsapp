@@ -5,10 +5,10 @@ export default function News() {
   return (
     <div>
       News Components
+      <Newsitem title="1"/>
+      {/* <Newsitem />
       <Newsitem />
-      <Newsitem />
-      <Newsitem />
-      <Newsitem />
+      <Newsitem /> */}
     </div>
   )
 }
